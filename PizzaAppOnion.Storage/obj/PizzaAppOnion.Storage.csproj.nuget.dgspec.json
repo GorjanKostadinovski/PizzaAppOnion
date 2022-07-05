@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Storage\\PizzaAppOnion.Storage.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Contracts\\PizzaAppOnion.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Contracts\\PizzaAppOnion.Contracts.csproj",
+        "projectName": "PizzaAppOnion.Contracts",
+        "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Contracts\\PizzaAppOnion.Contracts.csproj",
+        "packagesPath": "C:\\Users\\gorko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gorko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj": {
+                "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj",
+        "projectName": "PizzaAppOnion.Domain",
+        "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj",
+        "packagesPath": "C:\\Users\\gorko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gorko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Services\\PizzaAppOnion.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Services\\PizzaAppOnion.Services.csproj",
+        "projectName": "PizzaAppOnion.Services",
+        "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Services\\PizzaAppOnion.Services.csproj",
+        "packagesPath": "C:\\Users\\gorko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gorko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Contracts\\PizzaAppOnion.Contracts.csproj": {
+                "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Contracts\\PizzaAppOnion.Contracts.csproj"
+              },
+              "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj": {
+                "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Storage\\PizzaAppOnion.Storage.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Storage\\PizzaAppOnion.Storage.csproj",
+        "projectName": "PizzaAppOnion.Storage",
+        "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Storage\\PizzaAppOnion.Storage.csproj",
+        "packagesPath": "C:\\Users\\gorko\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Storage\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gorko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj": {
+                "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Domain\\PizzaAppOnion.Domain.csproj"
+              },
+              "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Services\\PizzaAppOnion.Services.csproj": {
+                "projectPath": "C:\\Users\\gorko\\source\\repos\\PizzaAppOnion\\PizzaAppOnion.Services\\PizzaAppOnion.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
