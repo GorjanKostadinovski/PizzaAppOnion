@@ -1,0 +1,15 @@
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\bin\Debug\net6.0\PizzaAppOnion.Contracts.deps.json
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\bin\Debug\net6.0\PizzaAppOnion.Contracts.dll
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\bin\Debug\net6.0\PizzaAppOnion.Contracts.pdb
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\bin\Debug\net6.0\PizzaAppOnion.Domain.dll
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\bin\Debug\net6.0\PizzaAppOnion.Domain.pdb
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.csproj.AssemblyReference.cache
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.AssemblyInfoInputs.cache
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.AssemblyInfo.cs
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.csproj.CopyComplete
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.dll
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\refint\PizzaAppOnion.Contracts.dll
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\PizzaAppOnion.Contracts.pdb
+C:\Users\gorko\source\repos\PizzaAppOnion\PizzaAppOnion.Contracts\obj\Debug\net6.0\ref\PizzaAppOnion.Contracts.dll

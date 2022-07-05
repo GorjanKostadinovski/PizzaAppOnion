@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PizzaAppOnion.Contracts/1.0.0": {
+        "dependencies": {
+          "PizzaAppOnion.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PizzaAppOnion.Contracts.dll": {}
+        }
+      },
+      "PizzaAppOnion.Domain/1.0.0": {
+        "runtime": {
+          "PizzaAppOnion.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PizzaAppOnion.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PizzaAppOnion.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
